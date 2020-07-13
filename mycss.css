@@ -1,0 +1,24 @@
+/* Navbar */
+.navbar-brand{
+    font-family: 'Cairo', sans-serif;
+}
+.navbar-center{
+    right:50%;
+    position: absolute;
+}
+/* carousel */
+.carousel{
+    border-radius: 43px;
+    overflow: hidden;
+}
+/* material */
+.material-icons{
+    vertical-align: middle;
+    line-height: 0 !important;
+    position: relative;
+    top: -1px;
+}
+/* side */
+.nav-link{
+    padding: 5 rem 0 rem;
+}
